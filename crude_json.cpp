@@ -16,6 +16,7 @@
 # include <clocale>
 # include <cmath>
 # include <cstring>
+# include <exception>
 # if CRUDE_JSON_IO
 #     include <stdio.h>
 #     include <memory>
